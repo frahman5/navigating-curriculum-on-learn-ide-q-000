@@ -24,9 +24,9 @@ A "track" is composed of many lessons, often organized into topics.
 
 Click on the track name above to pop open Track Navigation, which allows you to view topics and units and move between lessons. 
 
-![Click for Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/navigating_curriculum.png)
+![Click for Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/HowToNavigateCurriculum.png)
 
-![View Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/navigating_curriculum_2.png)
+![View Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/ExpandedNav.png)
 
 You must complete a lesson before you advance to the next one.
 
@@ -44,7 +44,7 @@ All labs include a README that you will see on Learn. The lab README will descri
 
 You'll know if a lesson on Learn is a lab by the actions the right column asks you to take. Labs will display the following in the right:
 
-![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_lab.png)
+![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/LabLights.png)
 
 #### READMEs
 
@@ -60,9 +60,9 @@ Some READMEs also contain brief interactive elements such as quizzes or little i
 
 Once you've completed a README, you should click the "I'm Done" button on the right. The "Next Lesson" button will light up, allowing you to proceed.
 
-![Readme not done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_readme_not_done.png)
+![Readme not done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/readmeUndone.png)
 
-![Readme done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_readme_done.png)
+![Readme done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/readmeDone.png)
 
 ## Go!
 
